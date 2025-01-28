@@ -1,2 +1,2 @@
 # yolo
-Project for CMPE 272
+Setting up a repo for our project for CMPE 272
